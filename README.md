@@ -1,4 +1,4 @@
-# Hi there, I'm Manoj Hegde 👋
+# 👋 Hi, I'm Manoj M Hegde
 
 <div align="center">
 
@@ -9,34 +9,48 @@
 
 ---
 
-### 👨‍💻 About Me
+I'm a **Computer Science & Data Science undergraduate** interested in **Java backend development, problem solving, and building practical software projects**.
 
-I am a **Full-Stack & Embedded Systems Developer** passionate about building modern web software, generative AI integrations, and physical computing solutions. I specialize in building reactive web platforms with **Next.js & React**, high-performance APIs with **FastAPI & Python**, and integrating **Local AI Models (Gemma 3, Qwen)** with microcontrollers (ESP32, Arduino).
+### 💻 Currently Learning
 
-- 🔭 **Featured Project**: [WebBrowserIDE](https://github.com/MANOJHEGDE77/WebBrowserIDE) — An in-browser microcontroller IDE (Monaco Editor) paired with a local AI assistant for electronics shopping & hardware design.
-- 🌱 **Currently exploring**: In-browser firmware compilers, Web Serial API, and low-latency edge AI models.
-- 💬 **Ask me about**: Full-Stack Web Development, Microcontrollers (ESP32 / ATmega328P), Local LLM Function Calling, FastAPI, Next.js.
-- 📫 **How to reach me**: [kannimmhegde123@gmail.com](mailto:kannimmhegde123@gmail.com)
+- ☕ Java & Object-Oriented Programming
+- 🧠 Data Structures & Algorithms
+- 🌱 Spring Boot & REST APIs
+- 🔐 Spring Security
+- 🗄️ MySQL, PostgreSQL & MongoDB
+- 🐍 Python
+- 🤖 Generative AI & AI-powered applications
+- 🐳 Docker & backend deployment
+
+### 🛠️ Technologies
+
+- **Languages:** Java, Python, SQL  
+- **Backend:** Spring Boot, REST APIs  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code, Docker  
+
+🚀 I enjoy building projects, learning by solving problems, and continuously improving my programming and backend development skills.
+
+📚 Currently focused on strengthening my **Java, DSA, backend development, and problem-solving skills**.
+
+> **Learn. Build. Solve. Improve. 🚀**
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🌟 Featured Projects
 
-- **Languages**: Python, TypeScript, JavaScript, C/C++, HTML5, CSS3, SQL
-- **Frameworks & Libraries**: Next.js, React, FastAPI, Tailwind CSS, Monaco Editor
-- **AI & ML**: Ollama, Gemma 3, Qwen, Function Calling, Prompt Engineering
-- **Hardware & IoT**: ESP32, Arduino Uno/Nano, Sensors, Actuators, Serial Protocols (UART, I2C, SPI)
-- **Databases & Tools**: SQLite, Git, GitHub, VS Code, REST APIs
+- ⚡ **[WebBrowserIDE](https://github.com/MANOJHEGDE77/WebBrowserIDE)** — In-Browser Hardware IDE (Monaco Editor) & DigiComp AI Assistant using local LLMs.
+- 📦 **[Digicomp-demo](https://github.com/MANOJHEGDE77/Digicomp-demo)** — E-commerce component catalog & interactive demo.
 
 ---
 
-### 🌟 Featured Repositories
+### 📫 Connect with Me
 
-- ⚡ **[WebBrowserIDE](https://github.com/MANOJHEGDE77/WebBrowserIDE)**: DigiComp AI Shopping Assistant & In-Browser Hardware Code Lab.
-- 📦 **[Digicomp-demo](https://github.com/MANOJHEGDE77/Digicomp-demo)**: Electronics component catalog & interactive demo.
+- 🌐 **GitHub:** [@MANOJHEGDE77](https://github.com/MANOJHEGDE77)
+- ✉️ **Email:** [kannimmhegde123@gmail.com](mailto:kannimmhegde123@gmail.com)
 
----
+<br/>
 
 <div align="center">
-  <sub>⭐️ Developed by <a href="https://github.com/MANOJHEGDE77">Manoj Hegde</a></sub>
+  <sub>⭐️ From <a href="https://github.com/MANOJHEGDE77">Manoj M Hegde</a></sub>
 </div>
